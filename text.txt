@@ -1,0 +1,4 @@
+1. The find method should take a word as an argument and output a list of TodoItem instances that contain this word as a tuple, which will have the format (index, instance). - False
+2. Prepare to eat - True
+1. The find method should take a word as an argument and output a list of TodoItem instances that contain this word as a tuple, which will have the format (index, instance). - False
+2. Prepare to eat - False
